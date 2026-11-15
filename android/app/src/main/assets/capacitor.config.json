@@ -1,0 +1,9 @@
+{
+	"appId": "com.yourname.quoteinvoice",
+	"appName": "Quote Invoice Manager",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	},
+	"backgroundColor": "#0f2744"
+}
